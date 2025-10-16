@@ -1,0 +1,11 @@
+Machine Learning Process
+
+1. Loading Data
+2. Preprocessing the Data
+3. Training a Model
+4. Evaluating the Model
+5. Making Predictions
+
+Aim to write a code that demonstrates a simple ML workflow using logistic regression which is a classifier.
+Our code should load the data, prepare it for training, train a model and use it to predict results and print results.
+
