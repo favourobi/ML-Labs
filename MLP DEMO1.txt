@@ -1,0 +1,17 @@
+A. The first step was to import all the useful libraries needed for the project.
+B. Next, I loaded the Iris dataset, which was downloaded from [this link](https://gist.github.com/netj/8836201).
+C. After downloading it, I loaded the CSV file into Jupyter Notebook to start working with it.
+D. The next thing I did was clean the data to remove any unnecessary or missing values and make it ready for analysis.
+E. Once the data was clean, I created a Machine Learning model using:
+
+```python
+model = LogisticRegression()
+```
+
+F. Then, I trained the model by fitting it to the dataset so it could learn the relationship between the input features (X) and the target labels (y).
+G. Finally, I used the trained model to make predictions and see how well it performed.
+
+
+You can see the code I wrote in MLP DEMO-checkpoint.ipynb
+
+Thanks for following.
